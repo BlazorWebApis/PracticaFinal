@@ -13,7 +13,7 @@ d.	Direccion
 6.	Una vez eliminados estos componentes, realice el proceso de migración para generar la tabla cliente en la nueva base de datos postgres en neon tech oncloud
 
 7.	Genere una nueva interface llamada IClienteService, luego creará una clase que llamara ClienteService 
-8.	Dentro de este service creara dos métodos	
+8.	Dentro de este service creará dos métodos	
 a.	CrearClientes()
 i.	Este metodo recibirá como parámetro un objeto cliente para insertarlo en la base de datos.
 b.	EditarClientes()
